@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Elsayed Hamed</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently studying at **ITI-9 month Professional Development & Bi-infused CRM**
+- 🔭 I finished the **ITI-9 month Professional Development & Bi-infused CRM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa-Hamed619/Mostafa-Hamed619](https://github.com/Mostafa-Hamed619/Mostafa-Hamed619)
 
