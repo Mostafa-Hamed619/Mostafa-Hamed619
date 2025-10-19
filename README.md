@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa-Hamed619/Mostafa-Hamed619](https://github.com/Mostafa-Hamed619/Mostafa-Hamed619)
 
-- 📝 I regularly Solve Leetcode problems on [https://leetcode.com/u/hamedmostafa726/]
+- 📝 I regularly Solve Leetcode problems on [https://leetcode.com/u/MostSEffy/]
 
 - 💬 Ask me about **Asp.net core, Angular and Microsoft SqlServer**
 
